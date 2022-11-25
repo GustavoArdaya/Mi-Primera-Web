@@ -21,14 +21,15 @@ h1 {
     /*color: black;*/
     font-size:40px;
     }
-    
+
 p {
     /*color: black;*/
     text-align: justify;
 }
 
 footer {
-    /*position: sticky;*/
+    /*position: fixed;*/
+    float: right;
     bottom: 50px;
     right: 50px;
     margin-bottom: 0px;
