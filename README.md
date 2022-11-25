@@ -3,7 +3,9 @@
 Para mi primera web, elegí el tema (redundante) de una nueva presentación literalmente. A riesgo de parecer ególatra o cosas por el estilo escogí esto por ser un tema que se esperaría que domine de alguna manera, y asi me quitaba de encima tiempo de planificación para dedicarme a aprender a solucionar los problemas inherentes a la creación de mi primera pagina web. Como sospechaba habian varios problemas a solucionar. He aqui mi triste historia:<br>
 <br>
 Este es el código HTML final del proyecto (parte del texto de los párrafos no se visualizan del todo en la pantalla):
+
 ![MPP1](https://user-images.githubusercontent.com/118914949/203929670-67cfc4cc-df7b-4fda-9dff-9f2d208dc670.jpg)<br>
+
 <h2>La sección Head</h2>
 La verdad que las formulas para inicializar un Html incorporadas en Visual Studio Code ahorran mucho tiempo. Talvez el código (al menos de momento, y en lo personal) mas "abstracto" se encuentra en este apartado: 
 
