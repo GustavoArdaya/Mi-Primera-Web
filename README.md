@@ -1,4 +1,8 @@
 # Mi-Primera-Web
+
+El url de la pagina se encuentra en:<br>
+https://gustavoardaya.github.io/Mi-Primera-Web/
+<br>
 <h1>El documento HTML</h1>
 Para mi primera web, elegí el tema (redundante) de una nueva presentación literalmente. A riesgo de parecer ególatra o cosas por el estilo escogí esto por ser un tema que se esperaría que domine de alguna manera, y asi me quitaba de encima tiempo de planificación para dedicarme a aprender a solucionar los problemas inherentes a la creación de mi primera pagina web. Como sospechaba habian varios problemas a solucionar. He aqui mi triste historia:<br>
 <br>
