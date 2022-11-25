@@ -31,6 +31,8 @@ De todas formas ajuste el padding, tanto superior como derecho, para "despegar" 
 
 El formato de los párrafos y del header 3 que utilicé a la derecha si fue especificado en el documento CSS y lo comentaré brevemente cuando toquemos ese parte, asi como los parametros del Flex (que adelanto que son los por defecto, jaja).<br>
 
+(Como comentario: Como se puede ver intente utilizar enfasis en la palabra "covid-19", pero no pude ver cambios en la página como esperaba. Talvez porque debo especificar primero el estilo de enfasis en el CSS?)<br>
+
 <h2>La sección Footer</h2>
 Esta parte tambien tenia un poco de complicación y creo que es la que talvez tiene mas código ineficiente y redundante.<br>
 En esta sección debia poner una imagen con un enlace a alguna página web, y a la cual decidí poner un pequeño texto explicativo (o mas bien apologético):
